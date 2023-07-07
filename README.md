@@ -30,7 +30,7 @@ This is a basic Chrome Extension base template for starting new projects off of 
 Clone the project
 
 ```bash
-   git clone 
+   git clone https://github.com/Utsavwh03/Chrome-Extension.git
 ```
 
 ## License
