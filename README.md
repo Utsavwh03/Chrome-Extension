@@ -33,5 +33,4 @@ Clone the project
    git clone https://github.com/Utsavwh03/Chrome-Extension.git
 ```
 
-## License
-Please refer to LICENSE file.
+Feel Free to contact me regarding any questions on the project 
